@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 ## Zhopa
 balablablabl
+
+## Copyright
+
+2020 GitHub
